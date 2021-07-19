@@ -2,11 +2,9 @@ title: The UK-China Symposium on Translation Studies
 description: > # this means to ignore newlines until "baseurl:"
   Translation and interpreting studies in the East and West: Advances, Convergence and Divergence
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "renawang26.github.io" # the base hostname & protocol for your site
+url: "https://ukchsymts.github.io/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
-date: 2021/08/10 ~ 2021/08/12
-location: UK
 
 facebook:
   app_id: 
