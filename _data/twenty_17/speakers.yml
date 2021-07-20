@@ -1,26 +1,71 @@
-- title: Professor
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: Jonathan Evans
+  name: 
+  subtitle: University of Glasgow
+  img: 
+  thumbnail: 
+  alt: 
+  topic: Topic
+  description: More Info
+
+- title: Kaibao Hu
+  name: 
+  subtitle: Shanghai International Studies University
+  img: 
+  thumbnail: 
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+- title: Dechao Li
+  name: 
+  subtitle: The Hong Kong Polytechnic University
+  img: 
+  thumbnail: 
+  alt: 
   topic: Topic
   description: More Info
-
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  
+- title: Wen Ren
+  name: 
+  subtitle: Beijing Foreign Studies University
+  img: 
+  thumbnail: 
+  alt: 
+  topic: Topic
+  description: More Info
+  
+- title: Yifeng Sun
+  name: 
+  subtitle: University of Macau
+  img: 
+  thumbnail: 
+  alt: 
+  topic: Topic
+  description: More Info
+  
+- title: Binhua Wang
+  name: 
+  subtitle: University of Leeds
+  img: 
+  thumbnail: 
+  alt: 
+  topic: Topic
+  description: More Info
+  
+- title: Kefei Wang
+  name: 
+  subtitle: Beijing Foreign Studies University
+  img: 
+  thumbnail: 
+  alt: 
+  topic: Topic
+  description: More Info
+  
+- title: Jackie Xiu Yan
+  name: 
+  subtitle: City University of Hong Kong
+  img: 
+  thumbnail: 
+  alt: 
   topic: Topic
   description: More Info
