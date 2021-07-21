@@ -11,6 +11,10 @@ html {
   height: 100%;
 }
 
+.div-2 {
+	background-color: #ABBAEA;
+}
+
 *, *:before, *:after {
   -webkit-box-sizing: inherit;
   -moz-box-sizing: inherit;
@@ -66,14 +70,14 @@ a.active {
 }
 
 a {
-    color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.new_primary }};
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #{{ site.data.template.color.secondary }};
+    color: #{{ site.data.template.color.new_secondary }};
 }
 
 h1,
@@ -269,7 +273,6 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
-	font-weight: 400;
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -280,22 +283,21 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 600;
+    font-weight: 400;
     letter-spacing: 1px;
-    color: #fffff0;
-	font-size: 20px;
+    color: #fff;
 }
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #{{ site.data.template.color.secondary }};
+    color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
@@ -337,7 +339,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    height: 80vh;
+    height: 100vh;
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -358,10 +360,21 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 22px;
+    font-size: 40px;
     font-style: italic;
     line-height: 22px;
 }
+
+header .intro-lead-in-cust {
+	color: white;
+    margin-bottom: 10px;
+    font-family: {{ '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif' }};
+    font-size: 40px;
+    font-style: italic;
+    line-height: 22px;
+	
+}
+
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
@@ -384,7 +397,6 @@ header .intro-text .intro-heading {
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
-		color: white;
     }
 
     header .intro-text .intro-heading {
@@ -714,7 +726,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('css/2016_style/img/map-image.png');
+    background-image: url('{{ site.baseurl }}/css/2016_style/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
