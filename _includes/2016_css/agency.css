@@ -369,9 +369,9 @@ header .intro-lead-in-cust {
 	color: white;
     margin-bottom: 10px;
     font-family: {{ '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif' }};
-    font-size: 40px;
+    font-size: 50px;
     font-style: italic;
-    line-height: 22px;
+    line-height: 50px;
 	
 }
 
