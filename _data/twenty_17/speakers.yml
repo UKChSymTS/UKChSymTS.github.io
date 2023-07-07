@@ -1,42 +1,24 @@
-- title: Jonathan Evans
+- title: Mark Shuttleworth
   name: 
-  subtitle: University of Glasgow
+  subtitle: Hong Kong Baptist University
   img: 
   thumbnail: 
   alt: 
   topic: Topic
   description: More Info
 
-- title: Kaibao Hu
-  name: 
-  subtitle: Shanghai International Studies University
-  img: 
-  thumbnail: 
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-
-- title: Dechao Li
-  name: 
-  subtitle: The Hong Kong Polytechnic University
-  img: 
-  thumbnail: 
-  alt: 
-  topic: Topic
-  description: More Info
-  
-- title: Wen Ren
-  name: 
-  subtitle: Beijing Foreign Studies University
-  img: 
-  thumbnail: 
-  alt: 
-  topic: Topic
-  description: More Info
-  
 - title: Yifeng Sun
   name: 
   subtitle: University of Macau
+  img: 
+  thumbnail: 
+  alt: 
+  topic: Topic
+  description: More Info
+
+- title: Ting Guo
+  name: 
+  subtitle: University of Liverpool
   img: 
   thumbnail: 
   alt: 
@@ -52,18 +34,54 @@
   topic: Topic
   description: More Info
   
-- title: Kefei Wang
+- title: Huang, Youyi
   name: 
-  subtitle: Beijing Foreign Studies University
+  subtitle: China International Communications Group
   img: 
   thumbnail: 
   alt: 
   topic: Topic
   description: More Info
   
-- title: Jackie Xiu Yan
+- title: Yang, Ping
   name: 
-  subtitle: City University of Hong Kong
+  subtitle: China International Communications Group
+  img: 
+  thumbnail: 
+  alt: 
+  topic: Topic
+  description: More Info
+  
+- title: Wang, Dongfeng
+  name: 
+  subtitle: Sun Yat-Sen University
+  img: 
+  thumbnail: 
+  alt: 
+  topic: Topic
+  description: More Info
+  
+- title: Qin, Hongwu
+  name: 
+  subtitle: Qufu Normal University
+  img: 
+  thumbnail: 
+  alt: 
+  topic: Topic
+  description: More Info
+
+  - title: Hu, Xianyao
+  name: 
+  subtitle: Southwest University
+  img: 
+  thumbnail: 
+  alt: 
+  topic: Topic
+  description: More Info
+
+  - title: Zhang, Wei
+  name: 
+  subtitle: Beijing Foreign Studies University
   img: 
   thumbnail: 
   alt: 
